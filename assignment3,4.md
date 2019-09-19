@@ -8,6 +8,7 @@ I chose this data visualization because it was from an article I enjoyed reading
 
 2. 
 My Process
+
 I critiqued the original data visualization using Stephen Few's Data Visualization Effectiveness Profile. The original, entitled "The Paintings of Bob Ross," is useful, perceptive, truthful, and intuitive. The FiveThirtyEight article is geared towards fans of Bob Ross and his show "The Joy of Painting." The bar chart shows all of the painting attributes and how often they appeared in his paintings. The chart is useful and perceptive because the people reading this article are most likely reading it because they are already familiar with the show and want to learn about which scenes were painted the most. It is a very straightforward bar chart that is accurate and intuitive. 
 
 The chart is not complete, nor is it aesthetically pleasing or engaging, though. The chart is not complete because it includes more information than needed; the author could have grouped some of the variables and reduced the length of the Y axis. Furthermore, the bar chart is not aesthetically pleasing. It has too many Y variables, but it is too simple in all other areas. After looking at the visualization, I do not think the audience is inspired to discuss the information further, which is disappointing because Bob Ross's paintings are so beautiful. This chart does not do Bob Ross's paintings justice. 
