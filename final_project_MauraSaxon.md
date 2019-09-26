@@ -13,6 +13,8 @@ After my analysis and visusalization, I hope the reader understands how dangerou
 # Initial Sketches
 My initial idea was to discuss how Pittsburgh is a hub for healthcare, but black mothers die in child-birth at an astounding rate. There was recently an article published about the high rates of maternal mortality in Pittsburgh, but I do not have access to their data, so I expanded the scope and will be looking at the entire Commonwealth of Pennsylvania.
 
+![Sketch 1 TSD](https://user-images.githubusercontent.com/54918227/65654277-3ff4f100-dfe6-11e9-8197-f5eee6942187.jpg)
+
 # The Data
 The following WESA article is the reason I chose this topic; Pittsburgh's maternal mortality rate is much higher for black women than in many other U.S. cities.
 https://www.wesa.fm/post/maternal-mortality-rates-black-women-pittsburgh-higher-most-other-us-cities#stream/0
