@@ -5,6 +5,7 @@
 ![Data Visualization part II other one](https://user-images.githubusercontent.com/54918227/66152413-6539be80-e5e7-11e9-854c-cbf449a953aa.JPG)
 
 # Storyboard
+![Updated Storyboard part II](https://user-images.githubusercontent.com/54918227/66152621-d7120800-e5e7-11e9-90cc-8d9dd1b96841.jpg)
 
 # User Research Protocol
 
