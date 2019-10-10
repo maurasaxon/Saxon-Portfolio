@@ -61,6 +61,10 @@ I received eight user responses that helped me immensely. I created a Google For
 
 These responses helped me understand what I need to improve upon particularly visually/aesthetically. If I could go back and rework the questions, I would ask more specifically what type of story they see this data telling. I think my target audience are people who are familiar with Public Health issues. More specifically, I think the target audience are people are feminists and passionate about women's health. White women are the demographic that would read this article; Black women already know that Maternal Mortality is a big problem in their community because they are the ones experiencing this. Half of the reviewers of my Wireframes were White women. There are a few changes that I need to make to my data visualizations. There is a significant addition I need to make, though. I must add the correlation between prenatal visits and low maternal mortality. I know the data exists, but I cannot find a direct visual. My plan is to just put the two graphs near one another and explain the correlation. Some other critics said I should expand the data on race, but I found very inconsistent data sets regarding Hispanics, Asians, Pacific Islanders, American Indians, and Alaskan Natives. The only two consistently observed races were Black and White so I decided to just visualize those. 
 
+Below is an updated Wireframe 1:
+![Percentage of Black and White PA Women who Receive No Prenatal Care](https://user-images.githubusercontent.com/54918227/66612900-883d1300-eb91-11e9-93c2-3ed5efce89de.png)
+I did not use this updated version in my final project because the color was not the right pink tones. 
+
 # Final Data Story
 
 Intended Audience:
