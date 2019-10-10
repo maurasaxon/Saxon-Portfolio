@@ -63,7 +63,7 @@ These responses helped me understand what I need to improve upon particularly vi
 
 Below is an updated Wireframe 1:
 ![Percentage of Black and White PA Women who Receive No Prenatal Care](https://user-images.githubusercontent.com/54918227/66612900-883d1300-eb91-11e9-93c2-3ed5efce89de.png)
-I did not use this updated version in my final project because the color was not the right pink tones. 
+I did not use this updated version in my final project because the color was not the right pink tones. I googled Millenial Pink HTML code and used #ffb6c1 in my final project. 
 
 # Final Data Story
 
