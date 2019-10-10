@@ -1,13 +1,18 @@
 # The Idea: Use Data Visualizations to Show Disparities in Maternal Health
 
-Project Outline
+Project Outline:
+
 From my degree in Public Health, I learned that Maternal and Child Health is a key indicator to the entire health of a nation. The United States spends the most on health care and delivery than any other developed country. Yet, we have some of the highest rates of Maternal Mortality. Labor and delivery is a scary thought to any new mother. White mothers encounter issues, but Black mothers are at an even greater risk of complications. Through this project, I plan to show data portraying the risks of becoming pregnant in the United States. I hope the reader understands how dangerous it is to give birth as a Black woman in the United States. There needs to be more emphasis on inclusive and preventative care that empowers minority mothers.
 
-Summary of Project
+Summary of Project:
+
 My initial idea was to discuss how Pittsburgh is a hub for healthcare, but black mothers here die in child-birth at an astounding rate. There was recently an article published about the high rates of maternal mortality in Pittsburgh, but I do not have access to their data, so I expanded the scope and will be looking at the entire Commonwealth of Pennsylvania and the nation. I found data on a state and national level about the lack of prenatal care available to Black mothers and noticed a correlation between no access to prenatal care and high mortality rates. From there, I decided to focus my project on the importance of preventative health and prenatal care for Black women. 
 
-Sources
+Sources:
+
 The links below were my four main sources of data regarding Maternal Mortality rates and prenatal care. The article that sparked my interest in this topic for this project can be found here: https://www.wesa.fm/post/maternal-mortality-rates-black-women-pittsburgh-higher-most-other-us-cities#stream/0
+
+The following sources provided me with the data I visualized: 
 
 https://www.health.pa.gov/topics/HealthStatistics/MinorityHealthStatistics/Documents/Minority_Maternal_and_Infant_Health_2016.pdf
 
@@ -17,23 +22,27 @@ https://www.health.pa.gov/topics/HealthStatistics/HealthyPeople/Documents/curren
 
 https://www.childtrends.org/indicators/late-or-no-prenatal-care
 
-Project Structure
+Project Structure:
+
 The majort elements of the story revolve around the correlation between no prenatal care and high mortality rates. While correlation does not always mean causatation, I think this observation is important to note. My original plan had nothing to do with prenatal care, but after searching for more data about Maternal Mortality, I realized it is a key component. Furthermore, I wanted there to be a bigger focus on the health of the mother rather than the health of the baby. Infant mortality is a very important statistic to observe, but Maternal Mortality is just as important. I want this story to focus on the health of the mother because obstetric health does not just end when the mother gives birth; mothers recover for weeks or months after delivery. The aspect of a mothers well-being is sometimes forgotten because the focus of health and wellness is on the baby. This story is trying to make a mother seem like a human being rather than a number on a chart.
 
-Summary of Approach
+Summary of Approach:
+
 I want the final product of this project to be a way to learn more about and get involved in helping WHAMGlobal. WHAMGlobal is the Women's Health Activist Movement and they partner with the Jewish Healthcare Foundation in Pittsburgh. WHAMGlobal is moving their focus from Infant Mortality to Maternal Mortality; they are trying to bring the mother back into the picture. For example, many statistics I found addressed Maternal Mortality in terms of low-birth-weight babies. While a low-birth-weight can indicate a mother that was dealing with co-morbidities and stress, it is reflected as an outcome for the health of a baby rather than the mother. I wanted to use indicators that directly impacted the mother, so I used prenatal care statistics. 
 
 Since the audience of this presentation are Pittsburgh graduate students, I wanted to promote a local organization that they could somehow help. Furhtermore, the Commission on Gender Equity in Pittsburgh is gaining traction and I thought it would be important for my classmates to know that Pittsburgh is trying to make an effort in the Maternal Health space. 
 
 # Design and User Research
 
-Sketches and Storyboards
+Sketches and Storyboards:
+
 I want the reader to immediately understand the context of the issue. The introduction will show the Maternal Mortality rates across the United States. I then will focus in on Pennsylvania (Wireframe 1) because of the recent news article that was released about increase in Maternal Mortality rates for black women and Governor Wolf's plans to address this. Moreover, the problem should be clear: Black women have the highest Maternal Mortality rates compared to any other race. Next, I want to reader to connect the lack of prenatal/preventative care (Wireframe 2) to the high Maternal Mortality rates. In conclusion, the story should show that the best solution would be to give Black women better access to prenatal visits early on in their pregnancy. The way the reader can do this is by donating to WHAMGlobal (a donation link will be supplied at the end of the story).
 ![Sketch 1 TSD](https://user-images.githubusercontent.com/54918227/65654277-3ff4f100-dfe6-11e9-8197-f5eee6942187.jpg)
 
 ![Updated Storyboard part II](https://user-images.githubusercontent.com/54918227/66152621-d7120800-e5e7-11e9-90cc-8d9dd1b96841.jpg)
 
-Wireframes
+Wireframes:
+
 Below are two draft data visualizations representing the Maternal Mortality rates for Black and White women in Pennsylvania, as well as the percentage of women by race that do not encounter prenatal care during their first trimester. These two graphs are vital to the story. High Maternal Mortality rates impact all races, especially Black women. I think this significant statistic can be attributed to the lack of well-rounded prenatal care for Black women in Pennsylvania.
 
 Wireframe 1:
@@ -42,7 +51,8 @@ Wireframe 1:
 Wireframe 2:
 ![Data Visualization part II other one](https://user-images.githubusercontent.com/54918227/66152413-6539be80-e5e7-11e9-854c-cbf449a953aa.JPG)
 
-User Research Protocol and Findings
+User Research Protocol and Findings:
+
 I received eight user responses that helped me immensely. I created a Google Form that included Wireframes 1 and 2 and asked each reviewer to describe their opinion of the graph and provide me any advice. I wanted to see if the message of the Wireframes were easy to understand and where there are holes in the story trying to be told. I sent the Google form to 5 of my Health Care Policy and Management classmates and 3 of my family members. The resuls are displayed in the image below. 
 
 ![User research protocol responses](https://user-images.githubusercontent.com/54918227/66163122-9f15bf80-e5fd-11e9-84aa-dfbfb261c081.JPG)
@@ -51,12 +61,14 @@ These responses helped me understand what I need to improve upon particularly vi
 
 # Final Data Story
 
-Paragraph on Intended Audience
+Intended Audience:
+
 The readers I expect to address with this final project are women that consider themselves feminists. I expect women like myself to read this. I have a background in Public Health and am now studying Health Care Policy. I think well-educated women will find this topic interesting. Earlier, I mentioned White women will read this article because Black women probably already know what's happening in their community. But, that was more of a hope...I hope White women want to read this. White women are privileged and we can use our privilege to help miniority women. I do not see men reading this article because they do not think they are directly impacted by women's health. Contrary to my belief, on my last assignment, my professor said he would read this story; I think I can expand my intended audience to male and female readers that are interested in educating themselves on issues that minorities face in the United States. 
 
 I want this story to exude Intersectional Feminism and Black female empowerment. I chose Millenial Pink as one of the main colors because it is a "trendy" color, but it also refers to the female gender. I chose to include the Black mother and child because this picture makes people feel love and warmth. In contrast, I have the protest picture from the Women's March. I think this juxtaposition of photos/feelings is perfect for this story because I want the reader to feel love and warmth, but, also, be enraged/frustrated by these statistics about minority mothers. While the pictures from my original moodboard were not open source, all the images used in the final project Shorthand are from Pexels and/or my premium Canva account. 
 
-Reflection on work so far
+Reflection on Work:
+
 I used Tableau to visualiza all of my data. I really enjoyed using Tableau, but I was very disappointed when I could not get my charts to be "responsive." I talked with classmate, Kate Lenart, about the process of embedding code from my Tableau Public account onto Github and Shorthand, but I could not get it to properly work. Below are just the images of the charts I created. While I think the visualizations are compelling without being "live," I wish I could have perfected embedding the code. But, that is my goal for my next data visualization. 
 
 Regarding color scheme, I purposefully made the story gendered by using pinks and blues. Pink and blue make people think of babies because newborns are usually wrapped in a blue or pink blanket after they are born. I wanted people to subconsiously begin thinking about childbirth and their own mother's to get the reader emotionally involved. 
@@ -72,7 +84,7 @@ Regarding color scheme, I purposefully made the story gendered by using pinks an
 ![Black Women Trends](https://user-images.githubusercontent.com/54918227/66529544-d68add00-ead1-11e9-8ee9-fc2e5a9c7060.png)
 
 Shorthand Link:
-
+https://carnegiemellon.shorthandstories.com/maternal-mortality/index.html
 
 Works Referenced:
 https://www.health.pa.gov/topics/HealthStatistics/VitalStatistics/MaternalChildHealth/Documents/Maternal_and_Child_Health_Pittsburgh_2017.pdf
