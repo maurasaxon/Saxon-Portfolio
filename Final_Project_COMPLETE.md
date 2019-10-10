@@ -10,15 +10,17 @@ My initial idea was to discuss how Pittsburgh is a hub for healthcare, but black
 
 Sources:
 
-The links below were my four main sources of data regarding Maternal Mortality rates and prenatal care. The article that sparked my interest in this topic for this project can be found here: https://www.wesa.fm/post/maternal-mortality-rates-black-women-pittsburgh-higher-most-other-us-cities#stream/0
+The links below were my four main sources of data regarding Maternal Mortality rates and prenatal care. The article that sparked my interest in using this topic for this project can be found here: https://www.wesa.fm/post/maternal-mortality-rates-black-women-pittsburgh-higher-most-other-us-cities#stream/0
 
 The following sources provided me with the data I visualized: 
 
+Pennsylvania Maternal Mortality Rates and Percantage of Pennsylvania Women with No Prenatal Care found here: 
 https://www.health.pa.gov/topics/HealthStatistics/MinorityHealthStatistics/Documents/Minority_Maternal_and_Infant_Health_2016.pdf
 
-https://www.cdc.gov/mmwr/volumes/68/wr/mm6835a3.htm#T1_down
-
 https://www.health.pa.gov/topics/HealthStatistics/HealthyPeople/Documents/current/state/mich-5-maternal-mortality-rate.aspx
+
+U.S. Maternal Mortality Rates and Percentage of U.S. Women with No Prenatal Care found here:
+https://www.cdc.gov/mmwr/volumes/68/wr/mm6835a3.htm#T1_down
 
 https://www.childtrends.org/indicators/late-or-no-prenatal-care
 
