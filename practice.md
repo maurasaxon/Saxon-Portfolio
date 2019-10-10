@@ -1,4 +1,4 @@
-![No Prenatal Care FINAL](https://user-images.githubusercontent.com/54918227/66529470-94fa3200-ead1-11e9-8228-d9633dfaedf5.png)
+![NO PRENATAL CARE CHART](https://user-images.githubusercontent.com/54918227/66529724-82342d00-ead2-11e9-947a-e70186f19ceb.png)
 
 ![Rate in US Race Comparison](https://user-images.githubusercontent.com/54918227/66529504-b6f3b480-ead1-11e9-8619-01d14c8d1614.png)
 
