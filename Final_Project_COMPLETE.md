@@ -1,4 +1,4 @@
-# The Idea: Use Data Visualizations to Show Disparities in Maternal Health
+# The Idea: Maternal Mortality
 
 Project Outline:
 
@@ -30,9 +30,9 @@ The majort elements of the story revolve around the correlation between no prena
 
 Summary of Approach:
 
-I want the final product of this project to be a way to learn more about and get involved in helping WHAMGlobal. WHAMGlobal is the Women's Health Activist Movement and they partner with the Jewish Healthcare Foundation in Pittsburgh. WHAMGlobal is moving their focus from Infant Mortality to Maternal Mortality; they are trying to bring the mother back into the picture. For example, many statistics I found addressed Maternal Mortality in terms of low-birth-weight babies. While a low-birth-weight can indicate a mother that was dealing with co-morbidities and stress, it is reflected as an outcome for the health of a baby rather than the mother. I wanted to use indicators that directly impacted the mother, so I used prenatal care statistics. 
+I want the final product of this project to be a way to learn more about and get involved in helping WHAMGlobal and Adagio Health. WHAMGlobal is the Women's Health Activist Movement and they partner with the Jewish Healthcare Foundation in Pittsburgh. WHAMGlobal is moving their focus from Infant Mortality to Maternal Mortality; they are trying to bring the mother back into the picture. For example, many statistics I found addressed Maternal Mortality in terms of low-birth-weight babies. While a low-birth-weight can indicate a mother that was dealing with co-morbidities and stress, it is reflected as an outcome for the health of a baby rather than the mother. I wanted to use indicators that directly impacted the mother, so I used prenatal care statistics. 
 
-Since the audience of this presentation are Pittsburgh graduate students, I wanted to promote a local organization that they could somehow help. Furhtermore, the Commission on Gender Equity in Pittsburgh is gaining traction and I thought it would be important for my classmates to know that Pittsburgh is trying to make an effort in the Maternal Health space. 
+Adagio Health is a health system that helps low socio-economic status women receive proper health care. Adagio just recently hosted the Symposium on Women's Health and hosted a wide variety of speakers promoting Maternal Health. Adagio provides quality care for women throughout Pennsylvania. Since the audience of this presentation are Pittsburgh graduate students, I wanted to promote a somewhat local organization that they could somehow help.
 
 # Design and User Research
 
@@ -59,7 +59,7 @@ I received eight user responses that helped me immensely. I created a Google For
 
 ![User research protocol responses](https://user-images.githubusercontent.com/54918227/66163122-9f15bf80-e5fd-11e9-84aa-dfbfb261c081.JPG)
 
-These responses helped me understand what I need to improve upon particularly visually/aesthetically. If I could go back and rework the questions, I would ask more specifically what type of story they see this data telling. I think my target audience are people who are familiar with Public Health issues. More specifically, I think the target audience are people are feminists and passionate about women's health. White women are the demographic that would read this article; Black women already know that Maternal Mortality is a big problem in their community because they are the ones experiencing this. Half of the reviewers of my Wireframes were White women. There are a few changes that I need to make to my data visualizations. There is a significant addition I need to make, though. I must add the correlation between prenatal visits and low maternal mortality. I know the data exists, but I cannot find a direct visual. My plan is to just put the two graphs near one another and explain the correlation. Some other critics said I should expand the data on race, but I found very inconsistent data sets regarding Hispanics, Asians, Pacific Islanders, American Indians, and Alaskan Natives. The only two consistently observed races were Black and White so I decided to just visualize those. 
+These responses helped me understand what I need to improve upon particularly visually/aesthetically. If I could go back and rework the questions, I would ask more specifically what type of story they see this data telling. I think my target audience are people who are familiar with Public Health issues. More specifically, I think the target audience are people are feminists and passionate about women's health. White women are the demographic that would read this article; Black women already know that Maternal Mortality is a big problem in their community because they are the ones experiencing this. Half of the reviewers of my Wireframes were White women. There are a few changes that I need to make to my data visualizations. There is a significant addition I need to make, though. I must add the correlation between no prenatal visits and high maternal mortality. I know the data exists, but I cannot find a direct visual. My plan is to just put the two graphs near one another and explain the correlation. Some other critics said I should expand the data on race, but I found very inconsistent data sets regarding Hispanics, Asians, Pacific Islanders, American Indians, and Alaskan Natives. The only two consistently observed races were Black and White so I decided to just visualize those. 
 
 Below is an updated Wireframe 1:
 ![Percentage of Black and White PA Women who Receive No Prenatal Care](https://user-images.githubusercontent.com/54918227/66612900-883d1300-eb91-11e9-93c2-3ed5efce89de.png)
@@ -79,7 +79,9 @@ I used Tableau to visualize all of my data. I really enjoyed using Tableau and f
 
 I think the bar chart with benchmarks portraying percentage of no prenatal care is concise, yet thought-provoking. I used the same data set for the Maternal Mortality Rates graphs as well as the Trend line graphs. I thought it was important to use the same data, but visualize it differently because I was using this data to make two separate points. I wanted the Maternal Mortality Rates charts to show the large difference between the rates of Black women and White women. The other point I made was regarding the trends of those races; the national average rate for both races is increasing, but the rate for White women in Pennsylvania is decreasing while the rate for Black women is a perpetually straight line. It is clear there are no advancements in improving the Maternal Mortality rate of Black women in Pennsylvania.
 
-Regarding color scheme, I purposefully made the story gendered by using pinks and blues. Pink and blue make people think of babies because newborns are usually wrapped in a blue or pink blanket after they are born. I wanted people to subconsiously begin thinking about childbirth and their own mother's to get the reader emotionally involved. 
+I was disappointed when I was searching for data on all races; unfortunately, there is inconsistent data published on the Maternal Mortality rates of Hispanic, Asian, Pacific Islander, and First Nation women. Due to this inconsistency, I was forced to only use rates of White and Black women. These data points still got the point across, though. 
+
+Regarding color scheme, I purposefully made the story gendered by using pinks (#ffb6c1) and blues. Pink and blue make people think of babies because newborns are usually wrapped in a blue or pink blanket after they are born. I wanted people to subconsiously begin thinking about childbirth and their own mother's to get the reader emotionally involved. 
 
 ![NO PRENATAL CARE CHART](https://user-images.githubusercontent.com/54918227/66529724-82342d00-ead2-11e9-947a-e70186f19ceb.png)
 
@@ -91,18 +93,30 @@ Regarding color scheme, I purposefully made the story gendered by using pinks an
 
 ![Black Women Trends](https://user-images.githubusercontent.com/54918227/66529544-d68add00-ead1-11e9-8ee9-fc2e5a9c7060.png)
 
-Shorthand Link:
+I really enjoyed this final project and having the opportunity to visualze a topic that I am passionate about; I am very grateful for having the opportunity to present this project to my classmates. This is a topic that truly impacts everyone and people must acknowledge this disparity. 
+
+# Shorthand Link:
 https://carnegiemellon.shorthandstories.com/maternal-mortality/index.html
 
-Works Referenced:
+# Works Referenced:
 https://www.health.pa.gov/topics/HealthStatistics/VitalStatistics/MaternalChildHealth/Documents/Maternal_and_Child_Health_Pittsburgh_2017.pdf
+
 https://www.health.pa.gov/topics/HealthStatistics/VitalStatistics/Documents/Maternal_Death_Report_2016.pdf
+
 https://www.health.pa.gov/topics/HealthStatistics/MinorityHealthStatistics/Documents/Minority_STDs_Infectious_Diseases_2014.pdf
+
 https://www.health.pa.gov/topics/HealthStatistics/MinorityHealthStatistics/Documents/Minority_Health_Disparities_Population_2000_2016.pdf
+
 https://www.phila.gov/media/20180418095805/MMR-2010-12-Report-final-060115.pdf
+
 https://www.hrsa.gov/sites/default/files/ourstories/mchb75th/mchb75maternalmortality.pdf
+
 https://www.americanactionforum.org/insight/maternal-mortality-in-the-united-states/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595019/
+
 https://www.health.pa.gov/topics/healthy/Pages/Maternal-Mortality.aspx
+
 https://www.media.pa.gov/Pages/Health-Details.aspx?newsid=594
+
 https://www.merckformothers.com/docs/pennsylvania_Factsheet.pdf
