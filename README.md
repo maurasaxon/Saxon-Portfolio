@@ -15,4 +15,6 @@ Part II Final Project: https://maurasaxon.github.io/Saxon-Portfolio/Final_Projec
 
 Complete Final Project: https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_COMPLETE
 
+Shorthand Link: https://carnegiemellon.shorthandstories.com/maternal-mortality/index.html
+
 Redesign Assignment: https://maurasaxon.github.io/Saxon-Portfolio/Redesign_Assignment3,4
