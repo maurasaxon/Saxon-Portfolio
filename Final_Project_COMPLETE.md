@@ -24,6 +24,9 @@ https://www.cdc.gov/mmwr/volumes/68/wr/mm6835a3.htm#T1_down
 
 https://www.childtrends.org/indicators/late-or-no-prenatal-care
 
+Information about Mid-Atlantic rates found here:
+https://www.hrsa.gov/sites/default/files/ourstories/mchb75th/mchb75maternalmortality.pdf
+
 Project Structure:
 
 The major elements of the story revolve around the correlation between no prenatal care and high mortality rates. While correlation does not always mean causatation, I think this observation is important to note. My original plan had nothing to do with prenatal care, but after searching for more data about Maternal Mortality, I realized it is a key component to the story. Furthermore, I wanted there to be a bigger focus on the health of the mother rather than the health of the baby. Infant mortality is a very important statistic to observe, but Maternal Mortality is just as important. I want this story to focus on the health of the mother because obstetric health does not just end when the mother gives birth; mothers recover for weeks or months after delivery. The aspect of a mothers well-being is sometimes forgotten because the focus of health and wellness is on the baby. For example, whether the birth outcome was healthy or not is commonly measured by the baby's birth-weight, but this provides zero information about the status of the mother's health. This story is trying to make a mother seem like a human being rather than a number on a chart.
