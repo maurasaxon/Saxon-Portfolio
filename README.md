@@ -11,7 +11,7 @@ I am hoping to learn hard-skills I can use for data visualization. In addition, 
 
 Part I of Final Project: https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_PartI_MauraSaxon
 
-Part II Final Project: https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_PartII_MauraSaxon
+Part II Final Project: https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_PartII_Maura_Saxon
 
 Complete Final Project: https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_COMPLETE
 
