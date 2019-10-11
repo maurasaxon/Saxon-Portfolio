@@ -9,4 +9,10 @@ I am hoping to learn hard-skills I can use for data visualization. In addition, 
 
 # Portfolio
 
-[This is my page](https://maurasaxon.github.io/Saxon-Portfolio/TitanicSurvivalRates)
+[This is Part I of my Final Project]https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_PartI_MauraSaxon
+
+[This is Part II of my Final Project]https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_PartII_MauraSaxon
+
+[This is complete my Final Project]https://maurasaxon.github.io/Saxon-Portfolio/Final_Project_COMPLETE
+
+[This is my Redesign Assignment]https://maurasaxon.github.io/Saxon-Portfolio/Redesign_Assignment3,4
