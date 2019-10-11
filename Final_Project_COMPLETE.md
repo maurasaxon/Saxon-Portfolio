@@ -94,7 +94,7 @@ I was disappointed when I was searching for data on all races; unfortunately, th
 
 Regarding color scheme, I purposefully made the story gendered by using pinks (#ffb6c1) and blues. Pink and blue make people think of babies because newborns are usually wrapped in a blue or pink blanket after they are born. I wanted people to subconsiously begin thinking about childbirth and their own mother's to get the reader emotionally involved. 
 
-I really enjoyed this final project and having the opportunity to visualze a topic that I am passionate about; I am very grateful for having the opportunity to present this project to my classmates. This is a topic that truly impacts everyone and people must acknowledge this disparity. 
+I really enjoyed this final project and having the chance to visualze a topic that I am passionate about; I am very grateful for having the opportunity to present this project to my classmates. This is a topic that truly impacts everyone and people must acknowledge this disparity. Thank you!
 
 # Shorthand Link:
 https://carnegiemellon.shorthandstories.com/maternal-mortality/index.html
